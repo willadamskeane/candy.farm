@@ -22,7 +22,7 @@ $app->get('/hello/:name',function($name){
 });
 
 $app->get('/',function(){
-	echo "<h3>Welcome to Candy Farm!</h3>";
+	// echo "<h3>Welcome to Candy Farm!</h3>";
 });
 
 
